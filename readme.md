@@ -53,15 +53,6 @@ Deepen knowledge and practice of:
 
 ---
 
-## ✅ Testing
-
-Includes automated tests to validate:
-- Notify the creation of new rooms
--
--
-
----
-
 ## 🐳 Docker
 
 The project includes a `docker-compose.yml` file that launches the following services:
@@ -69,4 +60,3 @@ The project includes a `docker-compose.yml` file that launches the following ser
 - **MySQL** (relational DB for rooms, clues, decorations)
 - **MongoDB** (NoSQL DB for user subscriptions)
 
-## 📁 Estructura del Proyecto
